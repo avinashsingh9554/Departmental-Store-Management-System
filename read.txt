@@ -1,0 +1,11 @@
+1.) This website is a Departmental Store Management System website which helps users to maintain and keep track of all necessary 
+records of their shop. 
+
+2.) Features of the Website:
+2.1 It can store all the categories of products available in shop
+2.2 Owner of the shop can add more categories as if it is available in the shop
+2.3 Website can store the details of all kinds of products available in the shop
+2.4 Website can keep the record of customers as which customer purchased           which product and on what date
+2.5 It is also provides the seraching facility such as searching a particular product
+2.6 Shows information and description of products and categories 
+2.7 Robust database backend and easy to update information 
